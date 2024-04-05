@@ -1,4 +1,4 @@
-# harpsicorpse
+# Harpsicorpse
 Haprsicorpse (the full body instrument)
 
 # About
